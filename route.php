@@ -14,8 +14,8 @@ if (array_key_exists($path, $routes)) {
     if (file_exists('./Controller/' . $controllerFile)) {
         include('./Controller/' . $controllerFile);
     } else {
-        echo '404 Sayfa Bulunamadı';
+        // echo '404 Sayfa Bulunamadı';
     }
 } else {
-    echo '404 Sayfa Bulunamadı';
+    //  echo '404 Sayfa Bulunamadı';
 }

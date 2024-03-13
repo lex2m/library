@@ -1,4 +1,11 @@
 RewriteEngine On
+
+ RewriteRule ^gir$ function.php [L]
+ RewriteRule ^giris$ function.php [L]
+ RewriteRule ^giriş$ function.php [L]
+ RewriteRule ^login$ function.php [L]
+ RewriteRule ^register$ function.php [L]
+
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
