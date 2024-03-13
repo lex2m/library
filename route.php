@@ -3,7 +3,7 @@ $request_uri = $_SERVER['REQUEST_URI'];
 
 $routes = [
     "/library/" => 'deneme',
-    "/login/" => '/Auth/Login',
+    "/library/login/" => '/Auth/Login',
     "/library/register/" => '/Auth/Register'
 ];
 
