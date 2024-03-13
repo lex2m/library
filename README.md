@@ -1,9 +1,5 @@
 # Kütüphane takip uygulaması
 
-<<<<<<< HEAD
-<h1>Kütüphane Takip Uygulaması</h1>
-</hr>
-=======
 Bu bir kütüphane takip uygulamasıdır. Core PHP ile kodlanmıştır.
 
 ## Dosyaları çekme ve çalıştırma
@@ -27,4 +23,3 @@ Kopyaladıktan sonra XAMPP Server'ınızda htdocs dosyanızın içine atmanız y
   - Ön yüz tasarımları yapıldı.
   - Veri tabanı işlemleri yapıldı.
   - Buglar fixlendi.
->>>>>>> be0eae61e1229e6acb011a452c4657f3c53c4f38
