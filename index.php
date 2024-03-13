@@ -9,18 +9,50 @@ require "route.php";
 
 <head>
     <title>Kütüphane</title>
+<<<<<<< HEAD
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+=======
+<<<<<<< HEAD
+>>>>>>> 9561695dbaf91e6c86111ba3c9b8b6e465c0c94e
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 
+<<<<<<< HEAD
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
+=======
+    <!-- BootStrap -->
+
+=======
+>>>>>>> a54756b (9:37)
+>>>>>>> 9561695dbaf91e6c86111ba3c9b8b6e465c0c94e
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
+<<<<<<< HEAD
+=======
+    <link rel="stylesheet" href="style.css">
+<<<<<<< HEAD
+
+    <!-- Font Awsome -->
+    <script src="https://kit.fontawesome.com/f30e8168c4.js" crossorigin="anonymous"></script>
+    <!-- Favico -->
+    <link href="img/favicon.png" rel="icon" />
+    <link href="img/favicon.png" rel="apple-touch-icon" />
+
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+
+=======
+>>>>>>> a54756b (9:37)
+>>>>>>> 9561695dbaf91e6c86111ba3c9b8b6e465c0c94e
 </head>
 
 <body>
