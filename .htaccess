@@ -1,10 +1,6 @@
-# Rewrite Engine'i etkinleştir
 RewriteEngine On
-
-# Kök dizini için yönlendirme kuralı
-RewriteRule ^$ /index.php [L]
-
-# Varlığı olmayan gerçek dosya veya dizinler için yönlendirme kuralı
+RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /index.php [L]
+RewriteRule . /index.php [L]
+
