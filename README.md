@@ -3,7 +3,6 @@
 <<<<<<< HEAD
 <h1>Kütüphane Takip Uygulaması</h1>
 </hr>
-<p>Deneme Nuri</p>
 =======
 Bu bir kütüphane takip uygulamasıdır. Core PHP ile kodlanmıştır.
 
