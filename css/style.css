@@ -1664,7 +1664,9 @@ select.form-control:focus::-ms-value {
   padding-bottom: calc(0.25rem + 1px);
   font-size: 0.875rem;
   line-height: 1.5; }
-
+.colored{
+  color: #866EC7 !important;
+}
 .form-control-plaintext {
   display: block;
   width: 100%;
