@@ -3,8 +3,8 @@ $request_uri = $_SERVER['REQUEST_URI'];
 
 $routes = [
     "/library/" => 'deneme',
-    "/library/login/" => '/Auth/Login',
-    "/library/register/" => '/Auth/Register'
+    "/library/login" => 'Auth/Login',
+    "/library/register" => 'Auth/Register'
 ];
 
 $path = parse_url($request_uri, PHP_URL_PATH);
