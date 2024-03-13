@@ -2,7 +2,7 @@
 $request_uri = $_SERVER['REQUEST_URI'];
 
 $routes = [
-    '/' => 'index'
+    '/' => 'deneme'
 ];
 
 $path = parse_url($request_uri, PHP_URL_PATH);
